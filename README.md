@@ -1,5 +1,4 @@
 #  House Price Prediction & Feature Analysis (King County, USA)
-
 ##  Project Overview
 This project analyzes housing data from King County, USA, to identify the key factors influencing house prices and build predictive models using machine learning techniques.
 
