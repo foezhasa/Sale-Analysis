@@ -1,13 +1,13 @@
-# 🏠 House Price Prediction & Feature Analysis (King County, USA)
+#  House Price Prediction & Feature Analysis (King County, USA)
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes housing data from King County, USA, to identify the key factors influencing house prices and build predictive models using machine learning techniques.
 
 The goal is to support data-driven real estate investment decisions by understanding price drivers and developing reliable prediction models.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 The dataset contains housing sales data (2014–2015), including features such as:
 - Living area (sqft_living)
 - Number of bedrooms and bathrooms
@@ -17,7 +17,7 @@ The dataset contains housing sales data (2014–2015), including features such a
 
 ---
 
-## 🔍 Key Steps
+##  Key Steps
 
 ### Data Cleaning
 - Removed irrelevant columns (id, unnamed)
@@ -56,7 +56,7 @@ Implemented a full pipeline including:
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 - Living area is the most important predictor of house prices
 - Higher-grade houses are significantly more expensive
 - Price distribution is highly skewed → improved using log transformation
@@ -64,7 +64,7 @@ Implemented a full pipeline including:
 
 ---
 
-## 🧠 Tools & Technologies
+##  Tools & Technologies
 - Python (Pandas, NumPy)
 - Data Visualization (Matplotlib, Seaborn)
 - Machine Learning (Scikit-learn)
@@ -72,12 +72,12 @@ Implemented a full pipeline including:
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 This project demonstrates how data analysis and machine learning can be applied to real estate pricing. The results show that combining multiple features significantly improves predictive performance compared to single-variable models.
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 - Hyperparameter tuning (GridSearchCV)
 - Feature selection techniques
 - Deploy model as a web app (Streamlit)
